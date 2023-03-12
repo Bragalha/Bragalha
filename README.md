@@ -16,4 +16,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Bragalha-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bragalha-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br>
+
+## 📊 | Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragalha&layout=compact&theme=dracula)](https://github.com/bragalha/github-readme-stats)
